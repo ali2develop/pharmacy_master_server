@@ -1,0 +1,501 @@
+﻿Name,Generic Name,Category,Manufacturer,Dosage Form,Strength,Pack Size,Strips Per Box,Default Purchase Price,Default Selling Price,Tax Percent,Medicine Type
+Panadol 500mg,Paracetamol,Analgesic / Antipyretic,Various Pakistani manufacturers,Tablet,500 mg,20 tablets,2,,,,OTC
+Panadol Syrup 120mg/5mL,Paracetamol,Analgesic / Antipyretic,Various Pakistani manufacturers,Syrup,120 mg/5 mL,60 mL,0,,,,OTC
+Panadol Syrup 250mg/5mL,Paracetamol,Analgesic / Antipyretic,Various Pakistani manufacturers,Syrup,250 mg/5 mL,60 mL,0,,,,OTC
+Paracetamol 100 mg/mL Drops,Paracetamol,Analgesic / Antipyretic,Various Pakistani manufacturers,Drops,100 mg/mL,15 mL,0,,,,OTC
+Brufen 200mg,Ibuprofen,NSAID / Analgesic,Various Pakistani manufacturers,Tablet,200 mg,20 tablets,2,,,,OTC
+Brufen 400mg,Ibuprofen,NSAID / Analgesic,Various Pakistani manufacturers,Tablet,400 mg,20 tablets,2,,,,OTC
+Brufen Syrup 100mg/5mL,Ibuprofen,NSAID / Analgesic,Various Pakistani manufacturers,Suspension,100 mg/5 mL,90 mL,0,,,,OTC
+Voltaren 50mg,Diclofenac Sodium,NSAID,Various Pakistani manufacturers,Tablet,50 mg,20 tablets,2,,,,Prescription
+Cataflam 50mg,Diclofenac Potassium,NSAID,Various Pakistani manufacturers,Tablet,50 mg,20 tablets,2,,,,Prescription
+Ponstan 250mg,Mefenamic Acid,NSAID / Analgesic,Various Pakistani manufacturers,Tablet,250 mg,20 tablets,2,,,,OTC
+Ponstan 500mg,Mefenamic Acid,NSAID / Analgesic,Various Pakistani manufacturers,Tablet,500 mg,20 tablets,2,,,,OTC
+Naproxen 250 mg Tablet,Naproxen,NSAID,Various Pakistani manufacturers,Tablet,250 mg,20 tablets,2,,,,Prescription
+Naproxen 500 mg Tablet,Naproxen,NSAID,Various Pakistani manufacturers,Tablet,500 mg,20 tablets,2,,,,Prescription
+Aspirin 75 mg Tablet,Aspirin,Analgesic / Antiplatelet,Various Pakistani manufacturers,Tablet,75 mg,100 tablets,10,,,,Prescription
+Disprin 300mg,Aspirin,Analgesic / Antiplatelet,Various Pakistani manufacturers,Tablet,300 mg,20 tablets,2,,,,OTC
+Amoxil 250mg,Amoxicillin,Antibiotic,Various Pakistani manufacturers,Capsule,250 mg,20 capsules,2,,,,Prescription
+Amoxil 500mg,Amoxicillin,Antibiotic,Various Pakistani manufacturers,Capsule,500 mg,20 capsules,2,,,,Prescription
+Amoxicillin 125 mg/5 mL Suspension,Amoxicillin,Antibiotic,Various Pakistani manufacturers,Suspension,125 mg/5 mL,60 mL,0,,,,Prescription
+Amoxicillin 250 mg/5 mL Suspension,Amoxicillin,Antibiotic,Various Pakistani manufacturers,Suspension,250 mg/5 mL,60 mL,0,,,,Prescription
+Amoxicillin + Clavulanic Acid 375 mg Tablet,Amoxicillin + Clavulanic Acid,Antibiotic,Various Pakistani manufacturers,Tablet,375 mg,10 tablets,1,,,,Prescription
+Augmentin 625mg,Amoxicillin + Clavulanic Acid,Antibiotic,Various Pakistani manufacturers,Tablet,625 mg,10 tablets,1,,,,Prescription
+Augmentin 1g,Amoxicillin + Clavulanic Acid,Antibiotic,Various Pakistani manufacturers,Tablet,1.0 g,10 tablets,1,,,,Prescription
+Amoxicillin + Clavulanic Acid 156.25 mg/5 mL Suspension,Amoxicillin + Clavulanic Acid,Antibiotic,Various Pakistani manufacturers,Suspension,156.25 mg/5 mL,60 mL,0,,,,Prescription
+Azomax 250mg,Azithromycin,Antibiotic,Various Pakistani manufacturers,Tablet,250 mg,6 tablets,1,,,,Prescription
+Azomax 500mg,Azithromycin,Antibiotic,Various Pakistani manufacturers,Tablet,500 mg,3 tablets,1,,,,Prescription
+Azithromycin 200 mg/5 mL Suspension,Azithromycin,Antibiotic,Various Pakistani manufacturers,Suspension,200 mg/5 mL,15 mL,0,,,,Prescription
+Clarithromycin 250 mg Tablet,Clarithromycin,Antibiotic,Various Pakistani manufacturers,Tablet,250 mg,10 tablets,1,,,,Prescription
+Clarithromycin 500 mg Tablet,Clarithromycin,Antibiotic,Various Pakistani manufacturers,Tablet,500 mg,10 tablets,1,,,,Prescription
+Clarithromycin 125 mg/5 mL Suspension,Clarithromycin,Antibiotic,Various Pakistani manufacturers,Suspension,125 mg/5 mL,60 mL,0,,,,Prescription
+Cefspan 200mg,Cefixime,Antibiotic,Various Pakistani manufacturers,Capsule,200 mg,10 capsules,1,,,,Prescription
+Cefspan 400mg,Cefixime,Antibiotic,Various Pakistani manufacturers,Capsule,400 mg,10 capsules,1,,,,Prescription
+Cefixime 100 mg/5 mL Suspension,Cefixime,Antibiotic,Various Pakistani manufacturers,Suspension,100 mg/5 mL,30 mL,0,,,,Prescription
+Cefixime 200 mg/5 mL Suspension,Cefixime,Antibiotic,Various Pakistani manufacturers,Suspension,200 mg/5 mL,30 mL,0,,,,Prescription
+Cefuroxime 250 mg Tablet,Cefuroxime,Antibiotic,Various Pakistani manufacturers,Tablet,250 mg,10 tablets,1,,,,Prescription
+Cefuroxime 500 mg Tablet,Cefuroxime,Antibiotic,Various Pakistani manufacturers,Tablet,500 mg,10 tablets,1,,,,Prescription
+Ciprofloxacin 250 mg Tablet,Ciprofloxacin,Antibiotic,Various Pakistani manufacturers,Tablet,250 mg,10 tablets,1,,,,Prescription
+Ciprofloxacin 500 mg Tablet,Ciprofloxacin,Antibiotic,Various Pakistani manufacturers,Tablet,500 mg,10 tablets,1,,,,Prescription
+Ciprofloxacin 0.3% Eye Drops,Ciprofloxacin,Antibiotic,Various Pakistani manufacturers,Eye Drops,0.3%,5 mL,0,,,,Prescription
+Levofloxacin 500 mg Tablet,Levofloxacin,Antibiotic,Various Pakistani manufacturers,Tablet,500 mg,10 tablets,1,,,,Prescription
+Levofloxacin 750 mg Tablet,Levofloxacin,Antibiotic,Various Pakistani manufacturers,Tablet,750 mg,10 tablets,1,,,,Prescription
+Metronidazole 200 mg Tablet,Metronidazole,Antibiotic / Antiprotozoal,Various Pakistani manufacturers,Tablet,200 mg,20 tablets,2,,,,Prescription
+Flagyl 400mg,Metronidazole,Antibiotic / Antiprotozoal,Various Pakistani manufacturers,Tablet,400 mg,20 tablets,2,,,,Prescription
+Metronidazole 200 mg/5 mL Suspension,Metronidazole,Antibiotic / Antiprotozoal,Various Pakistani manufacturers,Suspension,200 mg/5 mL,90 mL,0,,,,Prescription
+Tinidazole 500 mg Tablet,Tinidazole,Antiprotozoal,Various Pakistani manufacturers,Tablet,500 mg,10 tablets,1,,,,Prescription
+Nitrofurantoin 100 mg Capsule,Nitrofurantoin,Urinary Antibiotic,Various Pakistani manufacturers,Capsule,100 mg,30 capsules,3,,,,Prescription
+Co-trimoxazole 480 mg Tablet,Co-trimoxazole,Antibiotic,Various Pakistani manufacturers,Tablet,480 mg,20 tablets,2,,,,Prescription
+Co-trimoxazole 240 mg/5 mL Suspension,Co-trimoxazole,Antibiotic,Various Pakistani manufacturers,Suspension,240 mg/5 mL,50 mL,0,,,,Prescription
+Doxycycline 100 mg Capsule,Doxycycline,Antibiotic,Various Pakistani manufacturers,Capsule,100 mg,10 capsules,1,,,,Prescription
+Flucloxacillin 250 mg Capsule,Flucloxacillin,Antibiotic,Various Pakistani manufacturers,Capsule,250 mg,28 capsules,2,,,,Prescription
+Flucloxacillin 500 mg Capsule,Flucloxacillin,Antibiotic,Various Pakistani manufacturers,Capsule,500 mg,28 capsules,2,,,,Prescription
+Cephalexin 250 mg Capsule,Cephalexin,Antibiotic,Various Pakistani manufacturers,Capsule,250 mg,20 capsules,2,,,,Prescription
+Cephalexin 500 mg Capsule,Cephalexin,Antibiotic,Various Pakistani manufacturers,Capsule,500 mg,20 capsules,2,,,,Prescription
+Ceftriaxone 1 g Injection,Ceftriaxone,Antibiotic,Various Pakistani manufacturers,Injection,1 g,1 vial,0,,,,Prescription
+Cefotaxime 1 g Injection,Cefotaxime,Antibiotic,Various Pakistani manufacturers,Injection,1 g,1 vial,0,,,,Prescription
+Pantoprazole 40 mg Tablet,Pantoprazole,PPI,Various Pakistani manufacturers,Tablet,40 mg,14 tablets,2,,,,Prescription
+Omeprazole 20 mg Capsule,Omeprazole,PPI,Various Pakistani manufacturers,Capsule,20 mg,14 capsules,2,,,,OTC
+Nexium 20mg,Esomeprazole,PPI,Various Pakistani manufacturers,Tablet,20 mg,14 tablets,2,,,,Prescription
+Nexium 40mg,Esomeprazole,PPI,Various Pakistani manufacturers,Tablet,40 mg,14 tablets,2,,,,Prescription
+Rabeprazole 20 mg Tablet,Rabeprazole,PPI,Various Pakistani manufacturers,Tablet,20 mg,14 tablets,2,,,,Prescription
+Lansoprazole 30 mg Capsule,Lansoprazole,PPI,Various Pakistani manufacturers,Capsule,30 mg,14 capsules,2,,,,Prescription
+Famotidine 20 mg Tablet,Famotidine,H2 Blocker,Various Pakistani manufacturers,Tablet,20 mg,20 tablets,2,,,,OTC
+Domperidone 10 mg Tablet,Domperidone,GI / Antiemetic,Various Pakistani manufacturers,Tablet,10 mg,30 tablets,3,,,,Prescription
+Domperidone 5 mg/5 mL Suspension,Domperidone,GI / Antiemetic,Various Pakistani manufacturers,Suspension,5 mg/5 mL,60 mL,0,,,,Prescription
+Metoclopramide 10 mg Tablet,Metoclopramide,Antiemetic,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,Prescription
+Ondansetron 4 mg Tablet,Ondansetron,Antiemetic,Various Pakistani manufacturers,Tablet,4 mg,10 tablets,1,,,,Prescription
+Ondansetron 8 mg Tablet,Ondansetron,Antiemetic,Various Pakistani manufacturers,Tablet,8 mg,10 tablets,1,,,,Prescription
+Hyoscine Butylbromide 10 mg Tablet,Hyoscine Butylbromide,Antispasmodic,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,OTC
+Hyoscine Butylbromide 20 mg/mL Injection,Hyoscine Butylbromide,Antispasmodic,Various Pakistani manufacturers,Injection,20 mg/mL,1 ampoule,0,,,,Prescription
+Loperamide 2 mg Capsule,Loperamide,Antidiarrheal,Various Pakistani manufacturers,Capsule,2 mg,10 capsules,1,,,,OTC
+Duphalac Syrup,Lactulose,Laxative,Various Pakistani manufacturers,Syrup,3.35 g/5 mL,120 mL,0,,,,OTC
+Bisacodyl 5 mg Tablet,Bisacodyl,Laxative,Various Pakistani manufacturers,Tablet,5 mg,30 tablets,3,,,,OTC
+Senna 7.5 mg Tablet,Senna,Laxative,Various Pakistani manufacturers,Tablet,7.5 mg,20 tablets,2,,,,OTC
+ORS WHO formula Sachet,ORS,Oral Rehydration,Various Pakistani manufacturers,Sachet,WHO formula,1 sachet,0,,,,OTC
+Zinc Sulfate 20 mg Tablet,Zinc Sulfate,Mineral Supplement,Various Pakistani manufacturers,Tablet,20 mg,20 tablets,2,,,,OTC
+Zinc Sulfate 20 mg/5 mL Syrup,Zinc Sulfate,Mineral Supplement,Various Pakistani manufacturers,Syrup,20 mg/5 mL,60 mL,0,,,,OTC
+Zyrtec 10mg,Cetirizine,Antihistamine,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,OTC
+Cetirizine 5 mg/5 mL Syrup,Cetirizine,Antihistamine,Various Pakistani manufacturers,Syrup,5 mg/5 mL,60 mL,0,,,,OTC
+Xyzal 5mg,Levocetirizine,Antihistamine,Various Pakistani manufacturers,Tablet,5 mg,20 tablets,2,,,,OTC
+Loratadine 10 mg Tablet,Loratadine,Antihistamine,Various Pakistani manufacturers,Tablet,10 mg,10 tablets,1,,,,OTC
+Fexofenadine 120 mg Tablet,Fexofenadine,Antihistamine,Various Pakistani manufacturers,Tablet,120 mg,10 tablets,1,,,,OTC
+Fexofenadine 180 mg Tablet,Fexofenadine,Antihistamine,Various Pakistani manufacturers,Tablet,180 mg,10 tablets,1,,,,OTC
+Chlorpheniramine 4 mg Tablet,Chlorpheniramine,Antihistamine,Various Pakistani manufacturers,Tablet,4 mg,20 tablets,2,,,,OTC
+Singulair 10mg,Montelukast,Anti-allergy / Respiratory,Various Pakistani manufacturers,Tablet,10 mg,14 tablets,2,,,,Prescription
+Montelukast 5 mg Chewable Tablet,Montelukast,Anti-allergy / Respiratory,Various Pakistani manufacturers,Chewable Tablet,5 mg,14 tablets,2,,,,Prescription
+Salbutamol 2 mg Tablet,Salbutamol,Bronchodilator,Various Pakistani manufacturers,Tablet,2 mg,20 tablets,2,,,,Prescription
+Salbutamol 2 mg/5 mL Syrup,Salbutamol,Bronchodilator,Various Pakistani manufacturers,Syrup,2 mg/5 mL,60 mL,0,,,,Prescription
+Salbutamol 100 mcg/dose Inhaler,Salbutamol,Bronchodilator,Various Pakistani manufacturers,Inhaler,100 mcg/dose,200 doses,0,,,,Prescription
+Budesonide 0.5 mg/2 mL Nebules,Budesonide,Corticosteroid,Various Pakistani manufacturers,Nebules,0.5 mg/2 mL,5 nebules,0,,,,Prescription
+Budesonide + Formoterol 160/4.5 mcg Inhaler,Budesonide + Formoterol,Respiratory,Various Pakistani manufacturers,Inhaler,160/4.5 mcg,120 doses,0,,,,Prescription
+Beclometasone 50 mcg/dose Inhaler,Beclometasone,Corticosteroid,Various Pakistani manufacturers,Inhaler,50 mcg/dose,200 doses,0,,,,Prescription
+Ipratropium Bromide 20 mcg/dose Inhaler,Ipratropium Bromide,Bronchodilator,Various Pakistani manufacturers,Inhaler,20 mcg/dose,200 doses,0,,,,Prescription
+Theophylline 200 mg Tablet,Theophylline,Bronchodilator,Various Pakistani manufacturers,Tablet,200 mg,20 tablets,2,,,,Prescription
+Theophylline 300 mg Tablet,Theophylline,Bronchodilator,Various Pakistani manufacturers,Tablet,300 mg,20 tablets,2,,,,Prescription
+Norvasc 5mg,Amlodipine,Antihypertensive,Various Pakistani manufacturers,Tablet,5 mg,30 tablets,3,,,,Prescription
+Norvasc 10mg,Amlodipine,Antihypertensive,Various Pakistani manufacturers,Tablet,10 mg,30 tablets,3,,,,Prescription
+Cozaar 50mg,Losartan,Antihypertensive,Various Pakistani manufacturers,Tablet,50 mg,30 tablets,3,,,,Prescription
+Cozaar 100mg,Losartan,Antihypertensive,Various Pakistani manufacturers,Tablet,100 mg,30 tablets,3,,,,Prescription
+Losartan + Hydrochlorothiazide 50/12.5 mg Tablet,Losartan + Hydrochlorothiazide,Antihypertensive,Various Pakistani manufacturers,Tablet,50/12.5 mg,30 tablets,3,,,,Prescription
+Enalapril 5 mg Tablet,Enalapril,Antihypertensive,Various Pakistani manufacturers,Tablet,5 mg,20 tablets,2,,,,Prescription
+Enalapril 10 mg Tablet,Enalapril,Antihypertensive,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,Prescription
+Lisinopril 10 mg Tablet,Lisinopril,Antihypertensive,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,Prescription
+Valsartan 80 mg Tablet,Valsartan,Antihypertensive,Various Pakistani manufacturers,Tablet,80 mg,28 tablets,2,,,,Prescription
+Valsartan 160 mg Tablet,Valsartan,Antihypertensive,Various Pakistani manufacturers,Tablet,160 mg,28 tablets,2,,,,Prescription
+Atenolol 50 mg Tablet,Atenolol,Beta Blocker,Various Pakistani manufacturers,Tablet,50 mg,20 tablets,2,,,,Prescription
+Bisoprolol 5 mg Tablet,Bisoprolol,Beta Blocker,Various Pakistani manufacturers,Tablet,5 mg,20 tablets,2,,,,Prescription
+Propranolol 40 mg Tablet,Propranolol,Beta Blocker,Various Pakistani manufacturers,Tablet,40 mg,20 tablets,2,,,,Prescription
+Furosemide 40 mg Tablet,Furosemide,Diuretic,Various Pakistani manufacturers,Tablet,40 mg,20 tablets,2,,,,Prescription
+Spironolactone 25 mg Tablet,Spironolactone,Diuretic,Various Pakistani manufacturers,Tablet,25 mg,20 tablets,2,,,,Prescription
+Hydrochlorothiazide 25 mg Tablet,Hydrochlorothiazide,Diuretic,Various Pakistani manufacturers,Tablet,25 mg,20 tablets,2,,,,Prescription
+Lipitor 10mg,Atorvastatin,Statin,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,Prescription
+Lipitor 20mg,Atorvastatin,Statin,Various Pakistani manufacturers,Tablet,20 mg,20 tablets,2,,,,Prescription
+Lipitor 40mg,Atorvastatin,Statin,Various Pakistani manufacturers,Tablet,40 mg,20 tablets,2,,,,Prescription
+Rosuvastatin 5 mg Tablet,Rosuvastatin,Statin,Various Pakistani manufacturers,Tablet,5 mg,20 tablets,2,,,,Prescription
+Rosuvastatin 10 mg Tablet,Rosuvastatin,Statin,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,Prescription
+Rosuvastatin 20 mg Tablet,Rosuvastatin,Statin,Various Pakistani manufacturers,Tablet,20 mg,20 tablets,2,,,,Prescription
+Glucophage 500mg,Metformin,Antidiabetic,Various Pakistani manufacturers,Tablet,500 mg,30 tablets,3,,,,Prescription
+Glucophage 850mg,Metformin,Antidiabetic,Various Pakistani manufacturers,Tablet,850 mg,30 tablets,3,,,,Prescription
+Glucophage 1000mg,Metformin,Antidiabetic,Various Pakistani manufacturers,Tablet,1000 mg,30 tablets,3,,,,Prescription
+Metformin + Glimepiride 500/2 mg Tablet,Metformin + Glimepiride,Antidiabetic,Various Pakistani manufacturers,Tablet,500/2 mg,30 tablets,3,,,,Prescription
+Glimepiride 1 mg Tablet,Glimepiride,Antidiabetic,Various Pakistani manufacturers,Tablet,1 mg,30 tablets,3,,,,Prescription
+Glimepiride 2 mg Tablet,Glimepiride,Antidiabetic,Various Pakistani manufacturers,Tablet,2 mg,30 tablets,3,,,,Prescription
+Sitagliptin 100 mg Tablet,Sitagliptin,Antidiabetic,Various Pakistani manufacturers,Tablet,100 mg,28 tablets,2,,,,Prescription
+Dapagliflozin 10 mg Tablet,Dapagliflozin,Antidiabetic,Various Pakistani manufacturers,Tablet,10 mg,28 tablets,2,,,,Prescription
+Empagliflozin 10 mg Tablet,Empagliflozin,Antidiabetic,Various Pakistani manufacturers,Tablet,10 mg,28 tablets,2,,,,Prescription
+Insulin Regular 100 IU/mL Injection,Insulin Regular,Insulin,Various Pakistani manufacturers,Injection,100 IU/mL,10 mL vial,0,,,,Prescription
+Insulin NPH 100 IU/mL Injection,Insulin NPH,Insulin,Various Pakistani manufacturers,Injection,100 IU/mL,10 mL vial,0,,,,Prescription
+Euthyrox 50mcg,Levothyroxine,Thyroid Hormone,Various Pakistani manufacturers,Tablet,50 mcg,50 tablets,5,,,,Prescription
+Euthyrox 100mcg,Levothyroxine,Thyroid Hormone,Various Pakistani manufacturers,Tablet,100 mcg,50 tablets,5,,,,Prescription
+Ferrous Sulfate 200 mg Tablet,Ferrous Sulfate,Iron Supplement,Various Pakistani manufacturers,Tablet,200 mg,30 tablets,3,,,,OTC
+Ferrous + Folic Acid 200 mg + 400 mcg Tablet,Ferrous + Folic Acid,Vitamin / Mineral,Various Pakistani manufacturers,Tablet,200 mg + 400 mcg,30 tablets,3,,,,OTC
+Folvite 5mg,Folic Acid,Vitamin,Various Pakistani manufacturers,Tablet,5 mg,20 tablets,2,,,,OTC
+Calcium Carbonate + Vitamin D3 500 mg + 400 IU Tablet,Calcium Carbonate + Vitamin D3,Calcium Supplement,Various Pakistani manufacturers,Tablet,500 mg + 400 IU,30 tablets,3,,,,OTC
+"Cholecalciferol 50,000 IU Capsule",Cholecalciferol,Vitamin D,Various Pakistani manufacturers,Capsule,"50,000 IU",4 capsules,0,,,,OTC
+Vitamin B Complex B-Complex Tablet,Vitamin B Complex,Vitamin,Various Pakistani manufacturers,Tablet,B-Complex,30 tablets,3,,,,OTC
+Vitamin C 500 mg Tablet,Vitamin C,Vitamin,Various Pakistani manufacturers,Tablet,500 mg,20 tablets,2,,,,OTC
+Vitamin C 100 mg/5 mL Syrup,Vitamin C,Vitamin,Various Pakistani manufacturers,Syrup,100 mg/5 mL,100 mL,0,,,,OTC
+Vitamin B12 1000 mcg/mL Injection,Vitamin B12,Vitamin,Various Pakistani manufacturers,Injection,1000 mcg/mL,1 ampoule,0,,,,Prescription
+Methylcobalamin 500 mcg Tablet,Methylcobalamin,Vitamin / Neuropathic,Various Pakistani manufacturers,Tablet,500 mcg,20 tablets,2,,,,Prescription
+Lyrica 75mg,Pregabalin,Neuropathic Pain,Various Pakistani manufacturers,Capsule,75 mg,14 capsules,2,,,,Prescription
+Lyrica 150mg,Pregabalin,Neuropathic Pain,Various Pakistani manufacturers,Capsule,150 mg,14 capsules,2,,,,Prescription
+Gabapentin 100 mg Capsule,Gabapentin,Neuropathic Pain,Various Pakistani manufacturers,Capsule,100 mg,20 capsules,2,,,,Prescription
+Gabapentin 300 mg Capsule,Gabapentin,Neuropathic Pain,Various Pakistani manufacturers,Capsule,300 mg,20 capsules,2,,,,Prescription
+Amitriptyline 10 mg Tablet,Amitriptyline,Antidepressant / Neuropathic,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,Prescription
+Sertraline 50 mg Tablet,Sertraline,Antidepressant,Various Pakistani manufacturers,Tablet,50 mg,14 tablets,2,,,,Prescription
+Fluoxetine 20 mg Capsule,Fluoxetine,Antidepressant,Various Pakistani manufacturers,Capsule,20 mg,20 capsules,2,,,,Prescription
+Escitalopram 10 mg Tablet,Escitalopram,Antidepressant,Various Pakistani manufacturers,Tablet,10 mg,14 tablets,2,,,,Prescription
+Clonazepam 0.5 mg Tablet,Clonazepam,Benzodiazepine,Various Pakistani manufacturers,Tablet,0.5 mg,20 tablets,2,,,,Controlled
+Clonazepam 1 mg Tablet,Clonazepam,Benzodiazepine,Various Pakistani manufacturers,Tablet,1 mg,20 tablets,2,,,,Controlled
+Diazepam 5 mg Tablet,Diazepam,Benzodiazepine,Various Pakistani manufacturers,Tablet,5 mg,20 tablets,2,,,,Controlled
+Alprazolam 0.5 mg Tablet,Alprazolam,Benzodiazepine,Various Pakistani manufacturers,Tablet,0.5 mg,20 tablets,2,,,,Controlled
+Cetirizine + Montelukast 10/10 mg Tablet,Cetirizine + Montelukast,Anti-allergy,Various Pakistani manufacturers,Tablet,10/10 mg,10 tablets,1,,,,Prescription
+Diclofenac Gel 1% w/w Gel,Diclofenac Gel,Topical NSAID,Various Pakistani manufacturers,Gel,1% w/w,20 g,0,,,,OTC
+Povidone Iodine 10% Solution,Povidone Iodine,Antiseptic,Various Pakistani manufacturers,Solution,10%,100 mL,0,,,,OTC
+Chlorhexidine 0.5% Solution,Chlorhexidine,Antiseptic,Various Pakistani manufacturers,Solution,0.5%,100 mL,0,,,,OTC
+Hydrogen Peroxide 3% Solution,Hydrogen Peroxide,Antiseptic,Various Pakistani manufacturers,Solution,3%,100 mL,0,,,,OTC
+Permethrin 5% w/w Lotion,Permethrin,Scabicide,Various Pakistani manufacturers,Lotion,5% w/w,60 mL,0,,,,OTC
+Canesten Cream,Clotrimazole,Antifungal,Various Pakistani manufacturers,Cream,1%,20 g,0,,,,OTC
+Miconazole 2% Cream,Miconazole,Antifungal,Various Pakistani manufacturers,Cream,2%,20 g,0,,,,OTC
+Ketoconazole 2% Cream,Ketoconazole,Antifungal,Various Pakistani manufacturers,Cream,2%,20 g,0,,,,OTC
+Hydrocortisone 1% Cream,Hydrocortisone,Corticosteroid,Various Pakistani manufacturers,Cream,1%,15 g,0,,,,OTC
+Betamethasone 0.1% Cream,Betamethasone,Corticosteroid,Various Pakistani manufacturers,Cream,0.1%,15 g,0,,,,Prescription
+Bactroban Ointment,Mupirocin,Topical Antibiotic,Various Pakistani manufacturers,Ointment,2%,15 g,0,,,,Prescription
+Fusidic Acid 2% Cream,Fusidic Acid,Topical Antibiotic,Various Pakistani manufacturers,Cream,2%,15 g,0,,,,Prescription
+Acyclovir 5% Cream,Acyclovir,Antiviral,Various Pakistani manufacturers,Cream,5%,5 g,0,,,,OTC
+Zovirax 400mg,Acyclovir,Antiviral,Various Pakistani manufacturers,Tablet,400 mg,25 tablets,0,,,,Prescription
+Calamine 8% Lotion,Calamine,Skin Protectant,Various Pakistani manufacturers,Lotion,8%,100 mL,0,,,,OTC
+Zinc Oxide 20% Cream,Zinc Oxide,Skin Protectant,Various Pakistani manufacturers,Cream,20%,20 g,0,,,,OTC
+Salicylic Acid 5% Ointment,Salicylic Acid,Keratolytic,Various Pakistani manufacturers,Ointment,5%,20 g,0,,,,OTC
+Lidocaine 2% Gel,Lidocaine,Local Anesthetic,Various Pakistani manufacturers,Gel,2%,30 g,0,,,,Prescription
+Artificial Tears 0.5% Eye Drops,Artificial Tears,Ophthalmic,Various Pakistani manufacturers,Eye Drops,0.5%,10 mL,0,,,,OTC
+Timolol 0.5% Eye Drops,Timolol,Glaucoma,Various Pakistani manufacturers,Eye Drops,0.5%,5 mL,0,,,,Prescription
+Latanoprost 0.005% Eye Drops,Latanoprost,Glaucoma,Various Pakistani manufacturers,Eye Drops,0.005%,2.5 mL,0,,,,Prescription
+Tobramycin 0.3% Eye Drops,Tobramycin,Ophthalmic Antibiotic,Various Pakistani manufacturers,Eye Drops,0.3%,5 mL,0,,,,Prescription
+Dexamethasone 0.5 mg Tablet,Dexamethasone,Corticosteroid,Various Pakistani manufacturers,Tablet,0.5 mg,20 tablets,2,,,,Prescription
+Prednisolone 5 mg Tablet,Prednisolone,Corticosteroid,Various Pakistani manufacturers,Tablet,5 mg,20 tablets,2,,,,Prescription
+Prednisolone 1% Eye Drops,Prednisolone,Corticosteroid,Various Pakistani manufacturers,Eye Drops,1%,5 mL,0,,,,Prescription
+Hydroxychloroquine 200 mg Tablet,Hydroxychloroquine,Antimalarial / Rheumatology,Various Pakistani manufacturers,Tablet,200 mg,30 tablets,3,,,,Prescription
+Chloroquine 250 mg Tablet,Chloroquine,Antimalarial,Various Pakistani manufacturers,Tablet,250 mg,20 tablets,2,,,,Prescription
+Primaquine 15 mg Tablet,Primaquine,Antimalarial,Various Pakistani manufacturers,Tablet,15 mg,20 tablets,2,,,,Prescription
+Artemether + Lumefantrine 80/480 mg Tablet,Artemether + Lumefantrine,Antimalarial,Various Pakistani manufacturers,Tablet,80/480 mg,6 tablets,1,,,,Prescription
+Zentel 400mg,Albendazole,Anthelmintic,Various Pakistani manufacturers,Tablet,400 mg,1 tablet,0,,,,OTC
+Albendazole 200 mg/5 mL Suspension,Albendazole,Anthelmintic,Various Pakistani manufacturers,Suspension,200 mg/5 mL,10 mL,0,,,,OTC
+Mebendazole 100 mg Tablet,Mebendazole,Anthelmintic,Various Pakistani manufacturers,Tablet,100 mg,6 tablets,0,,,,OTC
+Mebendazole 100 mg/5 mL Suspension,Mebendazole,Anthelmintic,Various Pakistani manufacturers,Suspension,100 mg/5 mL,30 mL,0,,,,OTC
+Dextromethorphan 10 mg/5 mL Syrup,Dextromethorphan,Cough Suppressant,Various Pakistani manufacturers,Syrup,10 mg/5 mL,100 mL,0,,,,OTC
+Ambroxol 15 mg/5 mL Syrup,Ambroxol,Mucolytic,Various Pakistani manufacturers,Syrup,15 mg/5 mL,100 mL,0,,,,OTC
+Bromhexine 4 mg/5 mL Syrup,Bromhexine,Mucolytic,Various Pakistani manufacturers,Syrup,4 mg/5 mL,100 mL,0,,,,OTC
+Guaifenesin 100 mg/5 mL Syrup,Guaifenesin,Expectorant,Various Pakistani manufacturers,Syrup,100 mg/5 mL,100 mL,0,,,,OTC
+Salbutamol + Guaifenesin 2 mg + 100 mg/5 mL Syrup,Salbutamol + Guaifenesin,Cough / Bronchodilator,Various Pakistani manufacturers,Syrup,2 mg + 100 mg/5 mL,100 mL,0,,,,OTC
+Chlorpheniramine + Dextromethorphan 2 mg + 10 mg/5 mL Syrup,Chlorpheniramine + Dextromethorphan,Cough / Allergy,Various Pakistani manufacturers,Syrup,2 mg + 10 mg/5 mL,100 mL,0,,,,OTC
+Paracetamol + Caffeine 500 mg + 65 mg Tablet,Paracetamol + Caffeine,Analgesic,Various Pakistani manufacturers,Tablet,500 mg + 65 mg,20 tablets,2,,,,OTC
+Paracetamol + Phenylephrine + Chlorpheniramine 500 mg + 10 mg + 2 mg Tablet,Paracetamol + Phenylephrine + Chlorpheniramine,Cold & Flu,Various Pakistani manufacturers,Tablet,500 mg + 10 mg + 2 mg,20 tablets,2,,,,OTC
+Phenylephrine 10 mg Tablet,Phenylephrine,Decongestant,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,OTC
+Otrivin Adult,Xylometazoline,Nasal Decongestant,Various Pakistani manufacturers,Nasal Drops,0.1%,10 mL,0,,,,OTC
+Otrivin Child,Xylometazoline,Nasal Decongestant,Various Pakistani manufacturers,Nasal Drops,0.05%,10 mL,0,,,,OTC
+Oxymetazoline 0.05% Nasal Spray,Oxymetazoline,Nasal Decongestant,Various Pakistani manufacturers,Nasal Spray,0.05%,10 mL,0,,,,OTC
+Nims 100mg,Nimesulide,NSAID,Various Pakistani manufacturers,Tablet,100 mg,10 tablets,1,,,,Prescription
+Etoricoxib 60 mg Tablet,Etoricoxib,NSAID,Various Pakistani manufacturers,Tablet,60 mg,10 tablets,1,,,,Prescription
+Etoricoxib 90 mg Tablet,Etoricoxib,NSAID,Various Pakistani manufacturers,Tablet,90 mg,10 tablets,1,,,,Prescription
+Etoricoxib 120 mg Tablet,Etoricoxib,NSAID,Various Pakistani manufacturers,Tablet,120 mg,10 tablets,1,,,,Prescription
+Tramadol 50 mg Capsule,Tramadol,Opioid Analgesic,Various Pakistani manufacturers,Capsule,50 mg,10 capsules,1,,,,Controlled
+Tramadol + Paracetamol 37.5/325 mg Tablet,Tramadol + Paracetamol,Analgesic,Various Pakistani manufacturers,Tablet,37.5/325 mg,10 tablets,1,,,,Prescription
+Allopurinol 100 mg Tablet,Allopurinol,Gout,Various Pakistani manufacturers,Tablet,100 mg,30 tablets,3,,,,Prescription
+Allopurinol 300 mg Tablet,Allopurinol,Gout,Various Pakistani manufacturers,Tablet,300 mg,30 tablets,3,,,,Prescription
+Colchicine 0.5 mg Tablet,Colchicine,Gout,Various Pakistani manufacturers,Tablet,0.5 mg,20 tablets,2,,,,Prescription
+Tamsulosin 0.4 mg Capsule,Tamsulosin,Urology,Various Pakistani manufacturers,Capsule,0.4 mg,30 capsules,3,,,,Prescription
+Finasteride 5 mg Tablet,Finasteride,Urology,Various Pakistani manufacturers,Tablet,5 mg,30 tablets,3,,,,Prescription
+Sildenafil 50 mg Tablet,Sildenafil,PDE5 Inhibitor,Various Pakistani manufacturers,Tablet,50 mg,4 tablets,0,,,,Prescription
+Sildenafil 100 mg Tablet,Sildenafil,PDE5 Inhibitor,Various Pakistani manufacturers,Tablet,100 mg,4 tablets,0,,,,Prescription
+Oxybutynin 5 mg Tablet,Oxybutynin,Urinary Antispasmodic,Various Pakistani manufacturers,Tablet,5 mg,20 tablets,2,,,,Prescription
+Oral Iron Polymaltose 50 mg/5 mL Syrup,Oral Iron Polymaltose,Iron Supplement,Various Pakistani manufacturers,Syrup,50 mg/5 mL,150 mL,0,,,,OTC
+Multivitamin Multivitamin Syrup,Multivitamin,Vitamin / Mineral,Various Pakistani manufacturers,Syrup,Multivitamin,120 mL,0,,,,OTC
+Multivitamin Multivitamin Tablet,Multivitamin,Vitamin / Mineral,Various Pakistani manufacturers,Tablet,Multivitamin,30 tablets,3,,,,OTC
+Paracetamol 500 mg Tablet - 20 tablets,Paracetamol,Analgesic / Antipyretic,Various Pakistani manufacturers,Tablet,500 mg,20 tablets,2,,,,OTC
+Paracetamol 120 mg/5 mL Syrup - 60 mL,Paracetamol,Analgesic / Antipyretic,Various Pakistani manufacturers,Syrup,120 mg/5 mL,60 mL,0,,,,OTC
+Paracetamol 250 mg/5 mL Syrup - 60 mL,Paracetamol,Analgesic / Antipyretic,Various Pakistani manufacturers,Syrup,250 mg/5 mL,60 mL,0,,,,OTC
+Paracetamol 100 mg/mL Drops - 15 mL,Paracetamol,Analgesic / Antipyretic,Various Pakistani manufacturers,Drops,100 mg/mL,15 mL,0,,,,OTC
+Ibuprofen 200 mg Tablet - 20 tablets,Ibuprofen,NSAID / Analgesic,Various Pakistani manufacturers,Tablet,200 mg,20 tablets,2,,,,OTC
+Ibuprofen 400 mg Tablet - 20 tablets,Ibuprofen,NSAID / Analgesic,Various Pakistani manufacturers,Tablet,400 mg,20 tablets,2,,,,OTC
+Ibuprofen 100 mg/5 mL Suspension - 90 mL,Ibuprofen,NSAID / Analgesic,Various Pakistani manufacturers,Suspension,100 mg/5 mL,90 mL,0,,,,OTC
+Diclofenac Sodium 50 mg Tablet - 20 tablets,Diclofenac Sodium,NSAID,Various Pakistani manufacturers,Tablet,50 mg,20 tablets,2,,,,Prescription
+Diclofenac Potassium 50 mg Tablet - 20 tablets,Diclofenac Potassium,NSAID,Various Pakistani manufacturers,Tablet,50 mg,20 tablets,2,,,,Prescription
+Mefenamic Acid 250 mg Tablet - 20 tablets,Mefenamic Acid,NSAID / Analgesic,Various Pakistani manufacturers,Tablet,250 mg,20 tablets,2,,,,OTC
+Mefenamic Acid 500 mg Tablet - 20 tablets,Mefenamic Acid,NSAID / Analgesic,Various Pakistani manufacturers,Tablet,500 mg,20 tablets,2,,,,OTC
+Naproxen 250 mg Tablet - 20 tablets,Naproxen,NSAID,Various Pakistani manufacturers,Tablet,250 mg,20 tablets,2,,,,Prescription
+Naproxen 500 mg Tablet - 20 tablets,Naproxen,NSAID,Various Pakistani manufacturers,Tablet,500 mg,20 tablets,2,,,,Prescription
+Aspirin 75 mg Tablet - 100 tablets,Aspirin,Analgesic / Antiplatelet,Various Pakistani manufacturers,Tablet,75 mg,100 tablets,10,,,,Prescription
+Aspirin 300 mg Tablet - 20 tablets,Aspirin,Analgesic / Antiplatelet,Various Pakistani manufacturers,Tablet,300 mg,20 tablets,2,,,,OTC
+Amoxicillin 250 mg Capsule - 20 capsules,Amoxicillin,Antibiotic,Various Pakistani manufacturers,Capsule,250 mg,20 capsules,2,,,,Prescription
+Amoxicillin 500 mg Capsule - 20 capsules,Amoxicillin,Antibiotic,Various Pakistani manufacturers,Capsule,500 mg,20 capsules,2,,,,Prescription
+Amoxicillin 125 mg/5 mL Suspension - 60 mL,Amoxicillin,Antibiotic,Various Pakistani manufacturers,Suspension,125 mg/5 mL,60 mL,0,,,,Prescription
+Amoxicillin 250 mg/5 mL Suspension - 60 mL,Amoxicillin,Antibiotic,Various Pakistani manufacturers,Suspension,250 mg/5 mL,60 mL,0,,,,Prescription
+Amoxicillin + Clavulanic Acid 375 mg Tablet - 10 tablets,Amoxicillin + Clavulanic Acid,Antibiotic,Various Pakistani manufacturers,Tablet,375 mg,10 tablets,1,,,,Prescription
+Amoxicillin + Clavulanic Acid 625 mg Tablet - 10 tablets,Amoxicillin + Clavulanic Acid,Antibiotic,Various Pakistani manufacturers,Tablet,625 mg,10 tablets,1,,,,Prescription
+Amoxicillin + Clavulanic Acid 1.0 g Tablet - 10 tablets,Amoxicillin + Clavulanic Acid,Antibiotic,Various Pakistani manufacturers,Tablet,1.0 g,10 tablets,1,,,,Prescription
+Amoxicillin + Clavulanic Acid 156.25 mg/5 mL Suspension - 60 mL,Amoxicillin + Clavulanic Acid,Antibiotic,Various Pakistani manufacturers,Suspension,156.25 mg/5 mL,60 mL,0,,,,Prescription
+Azithromycin 250 mg Tablet - 6 tablets,Azithromycin,Antibiotic,Various Pakistani manufacturers,Tablet,250 mg,6 tablets,1,,,,Prescription
+Azithromycin 500 mg Tablet - 3 tablets,Azithromycin,Antibiotic,Various Pakistani manufacturers,Tablet,500 mg,3 tablets,1,,,,Prescription
+Azithromycin 200 mg/5 mL Suspension - 15 mL,Azithromycin,Antibiotic,Various Pakistani manufacturers,Suspension,200 mg/5 mL,15 mL,0,,,,Prescription
+Clarithromycin 250 mg Tablet - 10 tablets,Clarithromycin,Antibiotic,Various Pakistani manufacturers,Tablet,250 mg,10 tablets,1,,,,Prescription
+Clarithromycin 500 mg Tablet - 10 tablets,Clarithromycin,Antibiotic,Various Pakistani manufacturers,Tablet,500 mg,10 tablets,1,,,,Prescription
+Clarithromycin 125 mg/5 mL Suspension - 60 mL,Clarithromycin,Antibiotic,Various Pakistani manufacturers,Suspension,125 mg/5 mL,60 mL,0,,,,Prescription
+Cefixime 200 mg Capsule - 10 capsules,Cefixime,Antibiotic,Various Pakistani manufacturers,Capsule,200 mg,10 capsules,1,,,,Prescription
+Cefixime 400 mg Capsule - 10 capsules,Cefixime,Antibiotic,Various Pakistani manufacturers,Capsule,400 mg,10 capsules,1,,,,Prescription
+Cefixime 100 mg/5 mL Suspension - 30 mL,Cefixime,Antibiotic,Various Pakistani manufacturers,Suspension,100 mg/5 mL,30 mL,0,,,,Prescription
+Cefixime 200 mg/5 mL Suspension - 30 mL,Cefixime,Antibiotic,Various Pakistani manufacturers,Suspension,200 mg/5 mL,30 mL,0,,,,Prescription
+Cefuroxime 250 mg Tablet - 10 tablets,Cefuroxime,Antibiotic,Various Pakistani manufacturers,Tablet,250 mg,10 tablets,1,,,,Prescription
+Cefuroxime 500 mg Tablet - 10 tablets,Cefuroxime,Antibiotic,Various Pakistani manufacturers,Tablet,500 mg,10 tablets,1,,,,Prescription
+Ciprofloxacin 250 mg Tablet - 10 tablets,Ciprofloxacin,Antibiotic,Various Pakistani manufacturers,Tablet,250 mg,10 tablets,1,,,,Prescription
+Ciprofloxacin 500 mg Tablet - 10 tablets,Ciprofloxacin,Antibiotic,Various Pakistani manufacturers,Tablet,500 mg,10 tablets,1,,,,Prescription
+Ciprofloxacin 0.3% Eye Drops - 5 mL,Ciprofloxacin,Antibiotic,Various Pakistani manufacturers,Eye Drops,0.3%,5 mL,0,,,,Prescription
+Levofloxacin 500 mg Tablet - 10 tablets,Levofloxacin,Antibiotic,Various Pakistani manufacturers,Tablet,500 mg,10 tablets,1,,,,Prescription
+Levofloxacin 750 mg Tablet - 10 tablets,Levofloxacin,Antibiotic,Various Pakistani manufacturers,Tablet,750 mg,10 tablets,1,,,,Prescription
+Metronidazole 200 mg Tablet - 20 tablets,Metronidazole,Antibiotic / Antiprotozoal,Various Pakistani manufacturers,Tablet,200 mg,20 tablets,2,,,,Prescription
+Metronidazole 400 mg Tablet - 20 tablets,Metronidazole,Antibiotic / Antiprotozoal,Various Pakistani manufacturers,Tablet,400 mg,20 tablets,2,,,,Prescription
+Metronidazole 200 mg/5 mL Suspension - 90 mL,Metronidazole,Antibiotic / Antiprotozoal,Various Pakistani manufacturers,Suspension,200 mg/5 mL,90 mL,0,,,,Prescription
+Tinidazole 500 mg Tablet - 10 tablets,Tinidazole,Antiprotozoal,Various Pakistani manufacturers,Tablet,500 mg,10 tablets,1,,,,Prescription
+Nitrofurantoin 100 mg Capsule - 30 capsules,Nitrofurantoin,Urinary Antibiotic,Various Pakistani manufacturers,Capsule,100 mg,30 capsules,3,,,,Prescription
+Co-trimoxazole 480 mg Tablet - 20 tablets,Co-trimoxazole,Antibiotic,Various Pakistani manufacturers,Tablet,480 mg,20 tablets,2,,,,Prescription
+Co-trimoxazole 240 mg/5 mL Suspension - 50 mL,Co-trimoxazole,Antibiotic,Various Pakistani manufacturers,Suspension,240 mg/5 mL,50 mL,0,,,,Prescription
+Doxycycline 100 mg Capsule - 10 capsules,Doxycycline,Antibiotic,Various Pakistani manufacturers,Capsule,100 mg,10 capsules,1,,,,Prescription
+Flucloxacillin 250 mg Capsule - 28 capsules,Flucloxacillin,Antibiotic,Various Pakistani manufacturers,Capsule,250 mg,28 capsules,2,,,,Prescription
+Flucloxacillin 500 mg Capsule - 28 capsules,Flucloxacillin,Antibiotic,Various Pakistani manufacturers,Capsule,500 mg,28 capsules,2,,,,Prescription
+Cephalexin 250 mg Capsule - 20 capsules,Cephalexin,Antibiotic,Various Pakistani manufacturers,Capsule,250 mg,20 capsules,2,,,,Prescription
+Cephalexin 500 mg Capsule - 20 capsules,Cephalexin,Antibiotic,Various Pakistani manufacturers,Capsule,500 mg,20 capsules,2,,,,Prescription
+Ceftriaxone 1 g Injection - 1 vial,Ceftriaxone,Antibiotic,Various Pakistani manufacturers,Injection,1 g,1 vial,0,,,,Prescription
+Cefotaxime 1 g Injection - 1 vial,Cefotaxime,Antibiotic,Various Pakistani manufacturers,Injection,1 g,1 vial,0,,,,Prescription
+Pantoprazole 40 mg Tablet - 14 tablets,Pantoprazole,PPI,Various Pakistani manufacturers,Tablet,40 mg,14 tablets,2,,,,Prescription
+Omeprazole 20 mg Capsule - 14 capsules,Omeprazole,PPI,Various Pakistani manufacturers,Capsule,20 mg,14 capsules,2,,,,OTC
+Esomeprazole 20 mg Tablet - 14 tablets,Esomeprazole,PPI,Various Pakistani manufacturers,Tablet,20 mg,14 tablets,2,,,,Prescription
+Esomeprazole 40 mg Tablet - 14 tablets,Esomeprazole,PPI,Various Pakistani manufacturers,Tablet,40 mg,14 tablets,2,,,,Prescription
+Rabeprazole 20 mg Tablet - 14 tablets,Rabeprazole,PPI,Various Pakistani manufacturers,Tablet,20 mg,14 tablets,2,,,,Prescription
+Lansoprazole 30 mg Capsule - 14 capsules,Lansoprazole,PPI,Various Pakistani manufacturers,Capsule,30 mg,14 capsules,2,,,,Prescription
+Famotidine 20 mg Tablet - 20 tablets,Famotidine,H2 Blocker,Various Pakistani manufacturers,Tablet,20 mg,20 tablets,2,,,,OTC
+Domperidone 10 mg Tablet - 30 tablets,Domperidone,GI / Antiemetic,Various Pakistani manufacturers,Tablet,10 mg,30 tablets,3,,,,Prescription
+Domperidone 5 mg/5 mL Suspension - 60 mL,Domperidone,GI / Antiemetic,Various Pakistani manufacturers,Suspension,5 mg/5 mL,60 mL,0,,,,Prescription
+Metoclopramide 10 mg Tablet - 20 tablets,Metoclopramide,Antiemetic,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,Prescription
+Ondansetron 4 mg Tablet - 10 tablets,Ondansetron,Antiemetic,Various Pakistani manufacturers,Tablet,4 mg,10 tablets,1,,,,Prescription
+Ondansetron 8 mg Tablet - 10 tablets,Ondansetron,Antiemetic,Various Pakistani manufacturers,Tablet,8 mg,10 tablets,1,,,,Prescription
+Hyoscine Butylbromide 10 mg Tablet - 20 tablets,Hyoscine Butylbromide,Antispasmodic,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,OTC
+Hyoscine Butylbromide 20 mg/mL Injection - 1 ampoule,Hyoscine Butylbromide,Antispasmodic,Various Pakistani manufacturers,Injection,20 mg/mL,1 ampoule,0,,,,Prescription
+Loperamide 2 mg Capsule - 10 capsules,Loperamide,Antidiarrheal,Various Pakistani manufacturers,Capsule,2 mg,10 capsules,1,,,,OTC
+Lactulose 3.35 g/5 mL Syrup - 120 mL,Lactulose,Laxative,Various Pakistani manufacturers,Syrup,3.35 g/5 mL,120 mL,0,,,,OTC
+Bisacodyl 5 mg Tablet - 30 tablets,Bisacodyl,Laxative,Various Pakistani manufacturers,Tablet,5 mg,30 tablets,3,,,,OTC
+Senna 7.5 mg Tablet - 20 tablets,Senna,Laxative,Various Pakistani manufacturers,Tablet,7.5 mg,20 tablets,2,,,,OTC
+ORS WHO formula Sachet - 1 sachet,ORS,Oral Rehydration,Various Pakistani manufacturers,Sachet,WHO formula,1 sachet,0,,,,OTC
+Zinc Sulfate 20 mg Tablet - 20 tablets,Zinc Sulfate,Mineral Supplement,Various Pakistani manufacturers,Tablet,20 mg,20 tablets,2,,,,OTC
+Zinc Sulfate 20 mg/5 mL Syrup - 60 mL,Zinc Sulfate,Mineral Supplement,Various Pakistani manufacturers,Syrup,20 mg/5 mL,60 mL,0,,,,OTC
+Cetirizine 10 mg Tablet - 20 tablets,Cetirizine,Antihistamine,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,OTC
+Cetirizine 5 mg/5 mL Syrup - 60 mL,Cetirizine,Antihistamine,Various Pakistani manufacturers,Syrup,5 mg/5 mL,60 mL,0,,,,OTC
+Levocetirizine 5 mg Tablet - 20 tablets,Levocetirizine,Antihistamine,Various Pakistani manufacturers,Tablet,5 mg,20 tablets,2,,,,OTC
+Loratadine 10 mg Tablet - 10 tablets,Loratadine,Antihistamine,Various Pakistani manufacturers,Tablet,10 mg,10 tablets,1,,,,OTC
+Fexofenadine 120 mg Tablet - 10 tablets,Fexofenadine,Antihistamine,Various Pakistani manufacturers,Tablet,120 mg,10 tablets,1,,,,OTC
+Fexofenadine 180 mg Tablet - 10 tablets,Fexofenadine,Antihistamine,Various Pakistani manufacturers,Tablet,180 mg,10 tablets,1,,,,OTC
+Chlorpheniramine 4 mg Tablet - 20 tablets,Chlorpheniramine,Antihistamine,Various Pakistani manufacturers,Tablet,4 mg,20 tablets,2,,,,OTC
+Montelukast 10 mg Tablet - 14 tablets,Montelukast,Anti-allergy / Respiratory,Various Pakistani manufacturers,Tablet,10 mg,14 tablets,2,,,,Prescription
+Montelukast 5 mg Chewable Tablet - 14 tablets,Montelukast,Anti-allergy / Respiratory,Various Pakistani manufacturers,Chewable Tablet,5 mg,14 tablets,2,,,,Prescription
+Salbutamol 2 mg Tablet - 20 tablets,Salbutamol,Bronchodilator,Various Pakistani manufacturers,Tablet,2 mg,20 tablets,2,,,,Prescription
+Salbutamol 2 mg/5 mL Syrup - 60 mL,Salbutamol,Bronchodilator,Various Pakistani manufacturers,Syrup,2 mg/5 mL,60 mL,0,,,,Prescription
+Salbutamol 100 mcg/dose Inhaler - 200 doses,Salbutamol,Bronchodilator,Various Pakistani manufacturers,Inhaler,100 mcg/dose,200 doses,0,,,,Prescription
+Budesonide 0.5 mg/2 mL Nebules - 5 nebules,Budesonide,Corticosteroid,Various Pakistani manufacturers,Nebules,0.5 mg/2 mL,5 nebules,0,,,,Prescription
+Budesonide + Formoterol 160/4.5 mcg Inhaler - 120 doses,Budesonide + Formoterol,Respiratory,Various Pakistani manufacturers,Inhaler,160/4.5 mcg,120 doses,0,,,,Prescription
+Beclometasone 50 mcg/dose Inhaler - 200 doses,Beclometasone,Corticosteroid,Various Pakistani manufacturers,Inhaler,50 mcg/dose,200 doses,0,,,,Prescription
+Ipratropium Bromide 20 mcg/dose Inhaler - 200 doses,Ipratropium Bromide,Bronchodilator,Various Pakistani manufacturers,Inhaler,20 mcg/dose,200 doses,0,,,,Prescription
+Theophylline 200 mg Tablet - 20 tablets,Theophylline,Bronchodilator,Various Pakistani manufacturers,Tablet,200 mg,20 tablets,2,,,,Prescription
+Theophylline 300 mg Tablet - 20 tablets,Theophylline,Bronchodilator,Various Pakistani manufacturers,Tablet,300 mg,20 tablets,2,,,,Prescription
+Amlodipine 5 mg Tablet - 30 tablets,Amlodipine,Antihypertensive,Various Pakistani manufacturers,Tablet,5 mg,30 tablets,3,,,,Prescription
+Amlodipine 10 mg Tablet - 30 tablets,Amlodipine,Antihypertensive,Various Pakistani manufacturers,Tablet,10 mg,30 tablets,3,,,,Prescription
+Losartan 50 mg Tablet - 30 tablets,Losartan,Antihypertensive,Various Pakistani manufacturers,Tablet,50 mg,30 tablets,3,,,,Prescription
+Losartan 100 mg Tablet - 30 tablets,Losartan,Antihypertensive,Various Pakistani manufacturers,Tablet,100 mg,30 tablets,3,,,,Prescription
+Losartan + Hydrochlorothiazide 50/12.5 mg Tablet - 30 tablets,Losartan + Hydrochlorothiazide,Antihypertensive,Various Pakistani manufacturers,Tablet,50/12.5 mg,30 tablets,3,,,,Prescription
+Enalapril 5 mg Tablet - 20 tablets,Enalapril,Antihypertensive,Various Pakistani manufacturers,Tablet,5 mg,20 tablets,2,,,,Prescription
+Enalapril 10 mg Tablet - 20 tablets,Enalapril,Antihypertensive,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,Prescription
+Lisinopril 10 mg Tablet - 20 tablets,Lisinopril,Antihypertensive,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,Prescription
+Valsartan 80 mg Tablet - 28 tablets,Valsartan,Antihypertensive,Various Pakistani manufacturers,Tablet,80 mg,28 tablets,3,,,,Prescription
+Valsartan 160 mg Tablet - 28 tablets,Valsartan,Antihypertensive,Various Pakistani manufacturers,Tablet,160 mg,28 tablets,3,,,,Prescription
+Atenolol 50 mg Tablet - 20 tablets,Atenolol,Beta Blocker,Various Pakistani manufacturers,Tablet,50 mg,20 tablets,2,,,,Prescription
+Bisoprolol 5 mg Tablet - 20 tablets,Bisoprolol,Beta Blocker,Various Pakistani manufacturers,Tablet,5 mg,20 tablets,2,,,,Prescription
+Propranolol 40 mg Tablet - 20 tablets,Propranolol,Beta Blocker,Various Pakistani manufacturers,Tablet,40 mg,20 tablets,2,,,,Prescription
+Furosemide 40 mg Tablet - 20 tablets,Furosemide,Diuretic,Various Pakistani manufacturers,Tablet,40 mg,20 tablets,2,,,,Prescription
+Spironolactone 25 mg Tablet - 20 tablets,Spironolactone,Diuretic,Various Pakistani manufacturers,Tablet,25 mg,20 tablets,2,,,,Prescription
+Hydrochlorothiazide 25 mg Tablet - 20 tablets,Hydrochlorothiazide,Diuretic,Various Pakistani manufacturers,Tablet,25 mg,20 tablets,2,,,,Prescription
+Atorvastatin 10 mg Tablet - 20 tablets,Atorvastatin,Statin,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,Prescription
+Atorvastatin 20 mg Tablet - 20 tablets,Atorvastatin,Statin,Various Pakistani manufacturers,Tablet,20 mg,20 tablets,2,,,,Prescription
+Atorvastatin 40 mg Tablet - 20 tablets,Atorvastatin,Statin,Various Pakistani manufacturers,Tablet,40 mg,20 tablets,2,,,,Prescription
+Rosuvastatin 5 mg Tablet - 20 tablets,Rosuvastatin,Statin,Various Pakistani manufacturers,Tablet,5 mg,20 tablets,2,,,,Prescription
+Rosuvastatin 10 mg Tablet - 20 tablets,Rosuvastatin,Statin,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,Prescription
+Rosuvastatin 20 mg Tablet - 20 tablets,Rosuvastatin,Statin,Various Pakistani manufacturers,Tablet,20 mg,20 tablets,2,,,,Prescription
+Metformin 500 mg Tablet - 30 tablets,Metformin,Antidiabetic,Various Pakistani manufacturers,Tablet,500 mg,30 tablets,3,,,,Prescription
+Metformin 850 mg Tablet - 30 tablets,Metformin,Antidiabetic,Various Pakistani manufacturers,Tablet,850 mg,30 tablets,3,,,,Prescription
+Metformin 1000 mg Tablet - 30 tablets,Metformin,Antidiabetic,Various Pakistani manufacturers,Tablet,1000 mg,30 tablets,3,,,,Prescription
+Metformin + Glimepiride 500/2 mg Tablet - 30 tablets,Metformin + Glimepiride,Antidiabetic,Various Pakistani manufacturers,Tablet,500/2 mg,30 tablets,3,,,,Prescription
+Glimepiride 1 mg Tablet - 30 tablets,Glimepiride,Antidiabetic,Various Pakistani manufacturers,Tablet,1 mg,30 tablets,3,,,,Prescription
+Glimepiride 2 mg Tablet - 30 tablets,Glimepiride,Antidiabetic,Various Pakistani manufacturers,Tablet,2 mg,30 tablets,3,,,,Prescription
+Sitagliptin 100 mg Tablet - 28 tablets,Sitagliptin,Antidiabetic,Various Pakistani manufacturers,Tablet,100 mg,28 tablets,3,,,,Prescription
+Dapagliflozin 10 mg Tablet - 28 tablets,Dapagliflozin,Antidiabetic,Various Pakistani manufacturers,Tablet,10 mg,28 tablets,3,,,,Prescription
+Empagliflozin 10 mg Tablet - 28 tablets,Empagliflozin,Antidiabetic,Various Pakistani manufacturers,Tablet,10 mg,28 tablets,3,,,,Prescription
+Insulin Regular 100 IU/mL Injection - 10 mL vial,Insulin Regular,Insulin,Various Pakistani manufacturers,Injection,100 IU/mL,10 mL vial,0,,,,Prescription
+Insulin NPH 100 IU/mL Injection - 10 mL vial,Insulin NPH,Insulin,Various Pakistani manufacturers,Injection,100 IU/mL,10 mL vial,0,,,,Prescription
+Levothyroxine 50 mcg Tablet - 50 tablets,Levothyroxine,Thyroid Hormone,Various Pakistani manufacturers,Tablet,50 mcg,50 tablets,5,,,,Prescription
+Levothyroxine 100 mcg Tablet - 50 tablets,Levothyroxine,Thyroid Hormone,Various Pakistani manufacturers,Tablet,100 mcg,50 tablets,5,,,,Prescription
+Ferrous Sulfate 200 mg Tablet - 30 tablets,Ferrous Sulfate,Iron Supplement,Various Pakistani manufacturers,Tablet,200 mg,30 tablets,3,,,,OTC
+Ferrous + Folic Acid 200 mg + 400 mcg Tablet - 30 tablets,Ferrous + Folic Acid,Vitamin / Mineral,Various Pakistani manufacturers,Tablet,200 mg + 400 mcg,30 tablets,3,,,,OTC
+Folic Acid 5 mg Tablet - 20 tablets,Folic Acid,Vitamin,Various Pakistani manufacturers,Tablet,5 mg,20 tablets,2,,,,OTC
+Calcium Carbonate + Vitamin D3 500 mg + 400 IU Tablet - 30 tablets,Calcium Carbonate + Vitamin D3,Calcium Supplement,Various Pakistani manufacturers,Tablet,500 mg + 400 IU,30 tablets,3,,,,OTC
+"Cholecalciferol 50,000 IU Capsule - 4 capsules",Cholecalciferol,Vitamin D,Various Pakistani manufacturers,Capsule,"50,000 IU",4 capsules,0,,,,OTC
+Vitamin B Complex B-Complex Tablet - 30 tablets,Vitamin B Complex,Vitamin,Various Pakistani manufacturers,Tablet,B-Complex,30 tablets,3,,,,OTC
+Vitamin C 500 mg Tablet - 20 tablets,Vitamin C,Vitamin,Various Pakistani manufacturers,Tablet,500 mg,20 tablets,2,,,,OTC
+Vitamin C 100 mg/5 mL Syrup - 100 mL,Vitamin C,Vitamin,Various Pakistani manufacturers,Syrup,100 mg/5 mL,100 mL,0,,,,OTC
+Vitamin B12 1000 mcg/mL Injection - 1 ampoule,Vitamin B12,Vitamin,Various Pakistani manufacturers,Injection,1000 mcg/mL,1 ampoule,0,,,,Prescription
+Methylcobalamin 500 mcg Tablet - 20 tablets,Methylcobalamin,Vitamin / Neuropathic,Various Pakistani manufacturers,Tablet,500 mcg,20 tablets,2,,,,Prescription
+Pregabalin 75 mg Capsule - 14 capsules,Pregabalin,Neuropathic Pain,Various Pakistani manufacturers,Capsule,75 mg,14 capsules,2,,,,Prescription
+Pregabalin 150 mg Capsule - 14 capsules,Pregabalin,Neuropathic Pain,Various Pakistani manufacturers,Capsule,150 mg,14 capsules,2,,,,Prescription
+Gabapentin 100 mg Capsule - 20 capsules,Gabapentin,Neuropathic Pain,Various Pakistani manufacturers,Capsule,100 mg,20 capsules,2,,,,Prescription
+Gabapentin 300 mg Capsule - 20 capsules,Gabapentin,Neuropathic Pain,Various Pakistani manufacturers,Capsule,300 mg,20 capsules,2,,,,Prescription
+Amitriptyline 10 mg Tablet - 20 tablets,Amitriptyline,Antidepressant / Neuropathic,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,Prescription
+Sertraline 50 mg Tablet - 14 tablets,Sertraline,Antidepressant,Various Pakistani manufacturers,Tablet,50 mg,14 tablets,2,,,,Prescription
+Fluoxetine 20 mg Capsule - 20 capsules,Fluoxetine,Antidepressant,Various Pakistani manufacturers,Capsule,20 mg,20 capsules,2,,,,Prescription
+Escitalopram 10 mg Tablet - 14 tablets,Escitalopram,Antidepressant,Various Pakistani manufacturers,Tablet,10 mg,14 tablets,2,,,,Prescription
+Clonazepam 0.5 mg Tablet - 20 tablets,Clonazepam,Benzodiazepine,Various Pakistani manufacturers,Tablet,0.5 mg,20 tablets,2,,,,Controlled
+Clonazepam 1 mg Tablet - 20 tablets,Clonazepam,Benzodiazepine,Various Pakistani manufacturers,Tablet,1 mg,20 tablets,2,,,,Controlled
+Diazepam 5 mg Tablet - 20 tablets,Diazepam,Benzodiazepine,Various Pakistani manufacturers,Tablet,5 mg,20 tablets,2,,,,Controlled
+Alprazolam 0.5 mg Tablet - 20 tablets,Alprazolam,Benzodiazepine,Various Pakistani manufacturers,Tablet,0.5 mg,20 tablets,2,,,,Controlled
+Cetirizine + Montelukast 10/10 mg Tablet - 10 tablets,Cetirizine + Montelukast,Anti-allergy,Various Pakistani manufacturers,Tablet,10/10 mg,10 tablets,1,,,,Prescription
+Diclofenac Gel 1% w/w Gel - 20 g,Diclofenac Gel,Topical NSAID,Various Pakistani manufacturers,Gel,1% w/w,20 g,0,,,,OTC
+Povidone Iodine 10% Solution - 100 mL,Povidone Iodine,Antiseptic,Various Pakistani manufacturers,Solution,10%,100 mL,0,,,,OTC
+Chlorhexidine 0.5% Solution - 100 mL,Chlorhexidine,Antiseptic,Various Pakistani manufacturers,Solution,0.5%,100 mL,0,,,,OTC
+Hydrogen Peroxide 3% Solution - 100 mL,Hydrogen Peroxide,Antiseptic,Various Pakistani manufacturers,Solution,3%,100 mL,0,,,,OTC
+Permethrin 5% w/w Lotion - 60 mL,Permethrin,Scabicide,Various Pakistani manufacturers,Lotion,5% w/w,60 mL,0,,,,OTC
+Clotrimazole 1% Cream - 20 g,Clotrimazole,Antifungal,Various Pakistani manufacturers,Cream,1%,20 g,0,,,,OTC
+Miconazole 2% Cream - 20 g,Miconazole,Antifungal,Various Pakistani manufacturers,Cream,2%,20 g,0,,,,OTC
+Ketoconazole 2% Cream - 20 g,Ketoconazole,Antifungal,Various Pakistani manufacturers,Cream,2%,20 g,0,,,,OTC
+Hydrocortisone 1% Cream - 15 g,Hydrocortisone,Corticosteroid,Various Pakistani manufacturers,Cream,1%,15 g,0,,,,OTC
+Betamethasone 0.1% Cream - 15 g,Betamethasone,Corticosteroid,Various Pakistani manufacturers,Cream,0.1%,15 g,0,,,,Prescription
+Mupirocin 2% Ointment - 15 g,Mupirocin,Topical Antibiotic,Various Pakistani manufacturers,Ointment,2%,15 g,0,,,,Prescription
+Fusidic Acid 2% Cream - 15 g,Fusidic Acid,Topical Antibiotic,Various Pakistani manufacturers,Cream,2%,15 g,0,,,,Prescription
+Acyclovir 5% Cream - 5 g,Acyclovir,Antiviral,Various Pakistani manufacturers,Cream,5%,5 g,0,,,,OTC
+Acyclovir 400 mg Tablet - 25 tablets,Acyclovir,Antiviral,Various Pakistani manufacturers,Tablet,400 mg,25 tablets,3,,,,Prescription
+Calamine 8% Lotion - 100 mL,Calamine,Skin Protectant,Various Pakistani manufacturers,Lotion,8%,100 mL,0,,,,OTC
+Zinc Oxide 20% Cream - 20 g,Zinc Oxide,Skin Protectant,Various Pakistani manufacturers,Cream,20%,20 g,0,,,,OTC
+Salicylic Acid 5% Ointment - 20 g,Salicylic Acid,Keratolytic,Various Pakistani manufacturers,Ointment,5%,20 g,0,,,,OTC
+Lidocaine 2% Gel - 30 g,Lidocaine,Local Anesthetic,Various Pakistani manufacturers,Gel,2%,30 g,0,,,,Prescription
+Artificial Tears 0.5% Eye Drops - 10 mL,Artificial Tears,Ophthalmic,Various Pakistani manufacturers,Eye Drops,0.5%,10 mL,0,,,,OTC
+Timolol 0.5% Eye Drops - 5 mL,Timolol,Glaucoma,Various Pakistani manufacturers,Eye Drops,0.5%,5 mL,0,,,,Prescription
+Latanoprost 0.005% Eye Drops - 2.5 mL,Latanoprost,Glaucoma,Various Pakistani manufacturers,Eye Drops,0.005%,2.5 mL,0,,,,Prescription
+Tobramycin 0.3% Eye Drops - 5 mL,Tobramycin,Ophthalmic Antibiotic,Various Pakistani manufacturers,Eye Drops,0.3%,5 mL,0,,,,Prescription
+Dexamethasone 0.5 mg Tablet - 20 tablets,Dexamethasone,Corticosteroid,Various Pakistani manufacturers,Tablet,0.5 mg,20 tablets,2,,,,Prescription
+Prednisolone 5 mg Tablet - 20 tablets,Prednisolone,Corticosteroid,Various Pakistani manufacturers,Tablet,5 mg,20 tablets,2,,,,Prescription
+Prednisolone 1% Eye Drops - 5 mL,Prednisolone,Corticosteroid,Various Pakistani manufacturers,Eye Drops,1%,5 mL,0,,,,Prescription
+Hydroxychloroquine 200 mg Tablet - 30 tablets,Hydroxychloroquine,Antimalarial / Rheumatology,Various Pakistani manufacturers,Tablet,200 mg,30 tablets,3,,,,Prescription
+Chloroquine 250 mg Tablet - 20 tablets,Chloroquine,Antimalarial,Various Pakistani manufacturers,Tablet,250 mg,20 tablets,2,,,,Prescription
+Primaquine 15 mg Tablet - 20 tablets,Primaquine,Antimalarial,Various Pakistani manufacturers,Tablet,15 mg,20 tablets,2,,,,Prescription
+Artemether + Lumefantrine 80/480 mg Tablet - 6 tablets,Artemether + Lumefantrine,Antimalarial,Various Pakistani manufacturers,Tablet,80/480 mg,6 tablets,1,,,,Prescription
+Albendazole 400 mg Tablet - 1 tablet,Albendazole,Anthelmintic,Various Pakistani manufacturers,Tablet,400 mg,1 tablet,0,,,,OTC
+Albendazole 200 mg/5 mL Suspension - 10 mL,Albendazole,Anthelmintic,Various Pakistani manufacturers,Suspension,200 mg/5 mL,10 mL,0,,,,OTC
+Mebendazole 100 mg Tablet - 6 tablets,Mebendazole,Anthelmintic,Various Pakistani manufacturers,Tablet,100 mg,6 tablets,1,,,,OTC
+Mebendazole 100 mg/5 mL Suspension - 30 mL,Mebendazole,Anthelmintic,Various Pakistani manufacturers,Suspension,100 mg/5 mL,30 mL,0,,,,OTC
+Dextromethorphan 10 mg/5 mL Syrup - 100 mL,Dextromethorphan,Cough Suppressant,Various Pakistani manufacturers,Syrup,10 mg/5 mL,100 mL,0,,,,OTC
+Ambroxol 15 mg/5 mL Syrup - 100 mL,Ambroxol,Mucolytic,Various Pakistani manufacturers,Syrup,15 mg/5 mL,100 mL,0,,,,OTC
+Bromhexine 4 mg/5 mL Syrup - 100 mL,Bromhexine,Mucolytic,Various Pakistani manufacturers,Syrup,4 mg/5 mL,100 mL,0,,,,OTC
+Guaifenesin 100 mg/5 mL Syrup - 100 mL,Guaifenesin,Expectorant,Various Pakistani manufacturers,Syrup,100 mg/5 mL,100 mL,0,,,,OTC
+Salbutamol + Guaifenesin 2 mg + 100 mg/5 mL Syrup - 100 mL,Salbutamol + Guaifenesin,Cough / Bronchodilator,Various Pakistani manufacturers,Syrup,2 mg + 100 mg/5 mL,100 mL,0,,,,OTC
+Chlorpheniramine + Dextromethorphan 2 mg + 10 mg/5 mL Syrup - 100 mL,Chlorpheniramine + Dextromethorphan,Cough / Allergy,Various Pakistani manufacturers,Syrup,2 mg + 10 mg/5 mL,100 mL,0,,,,OTC
+Paracetamol + Caffeine 500 mg + 65 mg Tablet - 20 tablets,Paracetamol + Caffeine,Analgesic,Various Pakistani manufacturers,Tablet,500 mg + 65 mg,20 tablets,2,,,,OTC
+Paracetamol + Phenylephrine + Chlorpheniramine 500 mg + 10 mg + 2 mg Tablet - 20 tablets,Paracetamol + Phenylephrine + Chlorpheniramine,Cold & Flu,Various Pakistani manufacturers,Tablet,500 mg + 10 mg + 2 mg,20 tablets,2,,,,OTC
+Phenylephrine 10 mg Tablet - 20 tablets,Phenylephrine,Decongestant,Various Pakistani manufacturers,Tablet,10 mg,20 tablets,2,,,,OTC
+Xylometazoline 0.1% Nasal Drops - 10 mL,Xylometazoline,Nasal Decongestant,Various Pakistani manufacturers,Nasal Drops,0.1%,10 mL,0,,,,OTC
+Xylometazoline 0.05% Nasal Drops - 10 mL,Xylometazoline,Nasal Decongestant,Various Pakistani manufacturers,Nasal Drops,0.05%,10 mL,0,,,,OTC
+Oxymetazoline 0.05% Nasal Spray - 10 mL,Oxymetazoline,Nasal Decongestant,Various Pakistani manufacturers,Nasal Spray,0.05%,10 mL,0,,,,OTC
+Nimesulide 100 mg Tablet - 10 tablets,Nimesulide,NSAID,Various Pakistani manufacturers,Tablet,100 mg,10 tablets,1,,,,Prescription
+Etoricoxib 60 mg Tablet - 10 tablets,Etoricoxib,NSAID,Various Pakistani manufacturers,Tablet,60 mg,10 tablets,1,,,,Prescription
+Etoricoxib 90 mg Tablet - 10 tablets,Etoricoxib,NSAID,Various Pakistani manufacturers,Tablet,90 mg,10 tablets,1,,,,Prescription
+Etoricoxib 120 mg Tablet - 10 tablets,Etoricoxib,NSAID,Various Pakistani manufacturers,Tablet,120 mg,10 tablets,1,,,,Prescription
+Tramadol 50 mg Capsule - 10 capsules,Tramadol,Opioid Analgesic,Various Pakistani manufacturers,Capsule,50 mg,10 capsules,1,,,,Controlled
+Tramadol + Paracetamol 37.5/325 mg Tablet - 10 tablets,Tramadol + Paracetamol,Analgesic,Various Pakistani manufacturers,Tablet,37.5/325 mg,10 tablets,1,,,,Prescription
+Allopurinol 100 mg Tablet - 30 tablets,Allopurinol,Gout,Various Pakistani manufacturers,Tablet,100 mg,30 tablets,3,,,,Prescription
+Allopurinol 300 mg Tablet - 30 tablets,Allopurinol,Gout,Various Pakistani manufacturers,Tablet,300 mg,30 tablets,3,,,,Prescription
+Colchicine 0.5 mg Tablet - 20 tablets,Colchicine,Gout,Various Pakistani manufacturers,Tablet,0.5 mg,20 tablets,2,,,,Prescription
+Tamsulosin 0.4 mg Capsule - 30 capsules,Tamsulosin,Urology,Various Pakistani manufacturers,Capsule,0.4 mg,30 capsules,3,,,,Prescription
+Finasteride 5 mg Tablet - 30 tablets,Finasteride,Urology,Various Pakistani manufacturers,Tablet,5 mg,30 tablets,3,,,,Prescription
+Sildenafil 50 mg Tablet - 4 tablets,Sildenafil,PDE5 Inhibitor,Various Pakistani manufacturers,Tablet,50 mg,4 tablets,1,,,,Prescription
+Sildenafil 100 mg Tablet - 4 tablets,Sildenafil,PDE5 Inhibitor,Various Pakistani manufacturers,Tablet,100 mg,4 tablets,1,,,,Prescription
+Oxybutynin 5 mg Tablet - 20 tablets,Oxybutynin,Urinary Antispasmodic,Various Pakistani manufacturers,Tablet,5 mg,20 tablets,2,,,,Prescription
+Oral Iron Polymaltose 50 mg/5 mL Syrup - 150 mL,Oral Iron Polymaltose,Iron Supplement,Various Pakistani manufacturers,Syrup,50 mg/5 mL,150 mL,0,,,,OTC
+Multivitamin Multivitamin Syrup - 120 mL,Multivitamin,Vitamin / Mineral,Various Pakistani manufacturers,Syrup,Multivitamin,120 mL,0,,,,OTC
+Multivitamin Multivitamin Tablet - 30 tablets,Multivitamin,Vitamin / Mineral,Various Pakistani manufacturers,Tablet,Multivitamin,30 tablets,3,,,,OTC
+Paracetamol 500 mg Tablet - 30 tablets,Paracetamol,Analgesic / Antipyretic,Various Pakistani manufacturers,Tablet,500 mg,30 tablets,3,,,,OTC
+Paracetamol 120 mg/5 mL Syrup - 100 mL,Paracetamol,Analgesic / Antipyretic,Various Pakistani manufacturers,Syrup,120 mg/5 mL,100 mL,0,,,,OTC
+Paracetamol 250 mg/5 mL Syrup - 100 mL,Paracetamol,Analgesic / Antipyretic,Various Pakistani manufacturers,Syrup,250 mg/5 mL,100 mL,0,,,,OTC
+Paracetamol 100 mg/mL Drops - 20 mL,Paracetamol,Analgesic / Antipyretic,Various Pakistani manufacturers,Drops,100 mg/mL,20 mL,0,,,,OTC
+Ibuprofen 200 mg Tablet - 30 tablets,Ibuprofen,NSAID / Analgesic,Various Pakistani manufacturers,Tablet,200 mg,30 tablets,3,,,,OTC
+Ibuprofen 400 mg Tablet - 30 tablets,Ibuprofen,NSAID / Analgesic,Various Pakistani manufacturers,Tablet,400 mg,30 tablets,3,,,,OTC
+Ibuprofen 100 mg/5 mL Suspension - 100 mL,Ibuprofen,NSAID / Analgesic,Various Pakistani manufacturers,Suspension,100 mg/5 mL,100 mL,0,,,,OTC
+Diclofenac Sodium 50 mg Tablet - 30 tablets,Diclofenac Sodium,NSAID,Various Pakistani manufacturers,Tablet,50 mg,30 tablets,3,,,,Prescription
+Diclofenac Potassium 50 mg Tablet - 30 tablets,Diclofenac Potassium,NSAID,Various Pakistani manufacturers,Tablet,50 mg,30 tablets,3,,,,Prescription
+Mefenamic Acid 250 mg Tablet - 30 tablets,Mefenamic Acid,NSAID / Analgesic,Various Pakistani manufacturers,Tablet,250 mg,30 tablets,3,,,,OTC
+Mefenamic Acid 500 mg Tablet - 30 tablets,Mefenamic Acid,NSAID / Analgesic,Various Pakistani manufacturers,Tablet,500 mg,30 tablets,3,,,,OTC
+Naproxen 250 mg Tablet - 30 tablets,Naproxen,NSAID,Various Pakistani manufacturers,Tablet,250 mg,30 tablets,3,,,,Prescription
+Naproxen 500 mg Tablet - 30 tablets,Naproxen,NSAID,Various Pakistani manufacturers,Tablet,500 mg,30 tablets,3,,,,Prescription
+Aspirin 75 mg Tablet - 30 tablets,Aspirin,Analgesic / Antiplatelet,Various Pakistani manufacturers,Tablet,75 mg,30 tablets,3,,,,Prescription
+Aspirin 300 mg Tablet - 30 tablets,Aspirin,Analgesic / Antiplatelet,Various Pakistani manufacturers,Tablet,300 mg,30 tablets,3,,,,OTC
+Amoxicillin 125 mg/5 mL Suspension - 100 mL,Amoxicillin,Antibiotic,Various Pakistani manufacturers,Suspension,125 mg/5 mL,100 mL,0,,,,Prescription
+Amoxicillin 250 mg/5 mL Suspension - 100 mL,Amoxicillin,Antibiotic,Various Pakistani manufacturers,Suspension,250 mg/5 mL,100 mL,0,,,,Prescription
+Amoxicillin + Clavulanic Acid 375 mg Tablet - 30 tablets,Amoxicillin + Clavulanic Acid,Antibiotic,Various Pakistani manufacturers,Tablet,375 mg,30 tablets,3,,,,Prescription
+Amoxicillin + Clavulanic Acid 625 mg Tablet - 30 tablets,Amoxicillin + Clavulanic Acid,Antibiotic,Various Pakistani manufacturers,Tablet,625 mg,30 tablets,3,,,,Prescription
+Amoxicillin + Clavulanic Acid 1.0 g Tablet - 30 tablets,Amoxicillin + Clavulanic Acid,Antibiotic,Various Pakistani manufacturers,Tablet,1.0 g,30 tablets,3,,,,Prescription
+Amoxicillin + Clavulanic Acid 156.25 mg/5 mL Suspension - 100 mL,Amoxicillin + Clavulanic Acid,Antibiotic,Various Pakistani manufacturers,Suspension,156.25 mg/5 mL,100 mL,0,,,,Prescription
+Azithromycin 250 mg Tablet - 30 tablets,Azithromycin,Antibiotic,Various Pakistani manufacturers,Tablet,250 mg,30 tablets,3,,,,Prescription
+Azithromycin 500 mg Tablet - 30 tablets,Azithromycin,Antibiotic,Various Pakistani manufacturers,Tablet,500 mg,30 tablets,3,,,,Prescription
+Azithromycin 200 mg/5 mL Suspension - 100 mL,Azithromycin,Antibiotic,Various Pakistani manufacturers,Suspension,200 mg/5 mL,100 mL,0,,,,Prescription
+Clarithromycin 250 mg Tablet - 30 tablets,Clarithromycin,Antibiotic,Various Pakistani manufacturers,Tablet,250 mg,30 tablets,3,,,,Prescription
+Clarithromycin 500 mg Tablet - 30 tablets,Clarithromycin,Antibiotic,Various Pakistani manufacturers,Tablet,500 mg,30 tablets,3,,,,Prescription
+Clarithromycin 125 mg/5 mL Suspension - 100 mL,Clarithromycin,Antibiotic,Various Pakistani manufacturers,Suspension,125 mg/5 mL,100 mL,0,,,,Prescription
+Cefixime 200 mg Capsule - 20 capsules,Cefixime,Antibiotic,Various Pakistani manufacturers,Capsule,200 mg,20 capsules,1,,,,Prescription
+Cefixime 400 mg Capsule - 20 capsules,Cefixime,Antibiotic,Various Pakistani manufacturers,Capsule,400 mg,20 capsules,1,,,,Prescription
+Cefixime 100 mg/5 mL Suspension - 100 mL,Cefixime,Antibiotic,Various Pakistani manufacturers,Suspension,100 mg/5 mL,100 mL,0,,,,Prescription
+Cefixime 200 mg/5 mL Suspension - 100 mL,Cefixime,Antibiotic,Various Pakistani manufacturers,Suspension,200 mg/5 mL,100 mL,0,,,,Prescription
+Cefuroxime 250 mg Tablet - 30 tablets,Cefuroxime,Antibiotic,Various Pakistani manufacturers,Tablet,250 mg,30 tablets,3,,,,Prescription
+Cefuroxime 500 mg Tablet - 30 tablets,Cefuroxime,Antibiotic,Various Pakistani manufacturers,Tablet,500 mg,30 tablets,3,,,,Prescription
+Ciprofloxacin 250 mg Tablet - 30 tablets,Ciprofloxacin,Antibiotic,Various Pakistani manufacturers,Tablet,250 mg,30 tablets,3,,,,Prescription
+Ciprofloxacin 500 mg Tablet - 30 tablets,Ciprofloxacin,Antibiotic,Various Pakistani manufacturers,Tablet,500 mg,30 tablets,3,,,,Prescription
+Ciprofloxacin 0.3% Eye Drops - 10 mL,Ciprofloxacin,Antibiotic,Various Pakistani manufacturers,Eye Drops,0.3%,10 mL,0,,,,Prescription
+Levofloxacin 500 mg Tablet - 30 tablets,Levofloxacin,Antibiotic,Various Pakistani manufacturers,Tablet,500 mg,30 tablets,3,,,,Prescription
+Levofloxacin 750 mg Tablet - 30 tablets,Levofloxacin,Antibiotic,Various Pakistani manufacturers,Tablet,750 mg,30 tablets,3,,,,Prescription
+Metronidazole 200 mg Tablet - 30 tablets,Metronidazole,Antibiotic / Antiprotozoal,Various Pakistani manufacturers,Tablet,200 mg,30 tablets,3,,,,Prescription
+Metronidazole 400 mg Tablet - 30 tablets,Metronidazole,Antibiotic / Antiprotozoal,Various Pakistani manufacturers,Tablet,400 mg,30 tablets,3,,,,Prescription
+Metronidazole 200 mg/5 mL Suspension - 100 mL,Metronidazole,Antibiotic / Antiprotozoal,Various Pakistani manufacturers,Suspension,200 mg/5 mL,100 mL,0,,,,Prescription
+Tinidazole 500 mg Tablet - 30 tablets,Tinidazole,Antiprotozoal,Various Pakistani manufacturers,Tablet,500 mg,30 tablets,3,,,,Prescription
+Nitrofurantoin 100 mg Capsule - 20 capsules,Nitrofurantoin,Urinary Antibiotic,Various Pakistani manufacturers,Capsule,100 mg,20 capsules,3,,,,Prescription
+Co-trimoxazole 480 mg Tablet - 30 tablets,Co-trimoxazole,Antibiotic,Various Pakistani manufacturers,Tablet,480 mg,30 tablets,3,,,,Prescription
+Co-trimoxazole 240 mg/5 mL Suspension - 100 mL,Co-trimoxazole,Antibiotic,Various Pakistani manufacturers,Suspension,240 mg/5 mL,100 mL,0,,,,Prescription
+Doxycycline 100 mg Capsule - 20 capsules,Doxycycline,Antibiotic,Various Pakistani manufacturers,Capsule,100 mg,20 capsules,1,,,,Prescription
+Flucloxacillin 250 mg Capsule - 20 capsules,Flucloxacillin,Antibiotic,Various Pakistani manufacturers,Capsule,250 mg,20 capsules,2,,,,Prescription
+Flucloxacillin 500 mg Capsule - 20 capsules,Flucloxacillin,Antibiotic,Various Pakistani manufacturers,Capsule,500 mg,20 capsules,2,,,,Prescription
+Pantoprazole 40 mg Tablet - 30 tablets,Pantoprazole,PPI,Various Pakistani manufacturers,Tablet,40 mg,30 tablets,3,,,,Prescription
+Omeprazole 20 mg Capsule - 20 capsules,Omeprazole,PPI,Various Pakistani manufacturers,Capsule,20 mg,20 capsules,2,,,,OTC
+Esomeprazole 20 mg Tablet - 30 tablets,Esomeprazole,PPI,Various Pakistani manufacturers,Tablet,20 mg,30 tablets,3,,,,Prescription
+Esomeprazole 40 mg Tablet - 30 tablets,Esomeprazole,PPI,Various Pakistani manufacturers,Tablet,40 mg,30 tablets,3,,,,Prescription
+Rabeprazole 20 mg Tablet - 30 tablets,Rabeprazole,PPI,Various Pakistani manufacturers,Tablet,20 mg,30 tablets,3,,,,Prescription
+Lansoprazole 30 mg Capsule - 20 capsules,Lansoprazole,PPI,Various Pakistani manufacturers,Capsule,30 mg,20 capsules,2,,,,Prescription
+Famotidine 20 mg Tablet - 30 tablets,Famotidine,H2 Blocker,Various Pakistani manufacturers,Tablet,20 mg,30 tablets,3,,,,OTC
+Domperidone 5 mg/5 mL Suspension - 100 mL,Domperidone,GI / Antiemetic,Various Pakistani manufacturers,Suspension,5 mg/5 mL,100 mL,0,,,,Prescription
+Metoclopramide 10 mg Tablet - 30 tablets,Metoclopramide,Antiemetic,Various Pakistani manufacturers,Tablet,10 mg,30 tablets,3,,,,Prescription
+Ondansetron 4 mg Tablet - 30 tablets,Ondansetron,Antiemetic,Various Pakistani manufacturers,Tablet,4 mg,30 tablets,3,,,,Prescription
+Ondansetron 8 mg Tablet - 30 tablets,Ondansetron,Antiemetic,Various Pakistani manufacturers,Tablet,8 mg,30 tablets,3,,,,Prescription
+Hyoscine Butylbromide 10 mg Tablet - 30 tablets,Hyoscine Butylbromide,Antispasmodic,Various Pakistani manufacturers,Tablet,10 mg,30 tablets,3,,,,OTC
+Loperamide 2 mg Capsule - 20 capsules,Loperamide,Antidiarrheal,Various Pakistani manufacturers,Capsule,2 mg,20 capsules,1,,,,OTC
+Lactulose 3.35 g/5 mL Syrup - 100 mL,Lactulose,Laxative,Various Pakistani manufacturers,Syrup,3.35 g/5 mL,100 mL,0,,,,OTC
+Senna 7.5 mg Tablet - 30 tablets,Senna,Laxative,Various Pakistani manufacturers,Tablet,7.5 mg,30 tablets,3,,,,OTC
+ORS WHO formula Sachet - 10 sachets,ORS,Oral Rehydration,Various Pakistani manufacturers,Sachet,WHO formula,10 sachets,0,,,,OTC
+Zinc Sulfate 20 mg Tablet - 30 tablets,Zinc Sulfate,Mineral Supplement,Various Pakistani manufacturers,Tablet,20 mg,30 tablets,3,,,,OTC
+Zinc Sulfate 20 mg/5 mL Syrup - 100 mL,Zinc Sulfate,Mineral Supplement,Various Pakistani manufacturers,Syrup,20 mg/5 mL,100 mL,0,,,,OTC
+Cetirizine 10 mg Tablet - 30 tablets,Cetirizine,Antihistamine,Various Pakistani manufacturers,Tablet,10 mg,30 tablets,3,,,,OTC
+Cetirizine 5 mg/5 mL Syrup - 100 mL,Cetirizine,Antihistamine,Various Pakistani manufacturers,Syrup,5 mg/5 mL,100 mL,0,,,,OTC
+Levocetirizine 5 mg Tablet - 30 tablets,Levocetirizine,Antihistamine,Various Pakistani manufacturers,Tablet,5 mg,30 tablets,3,,,,OTC
+Loratadine 10 mg Tablet - 30 tablets,Loratadine,Antihistamine,Various Pakistani manufacturers,Tablet,10 mg,30 tablets,3,,,,OTC
+Fexofenadine 120 mg Tablet - 30 tablets,Fexofenadine,Antihistamine,Various Pakistani manufacturers,Tablet,120 mg,30 tablets,3,,,,OTC
+Fexofenadine 180 mg Tablet - 30 tablets,Fexofenadine,Antihistamine,Various Pakistani manufacturers,Tablet,180 mg,30 tablets,3,,,,OTC
+Chlorpheniramine 4 mg Tablet - 30 tablets,Chlorpheniramine,Antihistamine,Various Pakistani manufacturers,Tablet,4 mg,30 tablets,3,,,,OTC
+Montelukast 10 mg Tablet - 30 tablets,Montelukast,Anti-allergy / Respiratory,Various Pakistani manufacturers,Tablet,10 mg,30 tablets,3,,,,Prescription

@@ -10,7 +10,7 @@ if not SECRET_KEY:
     raise ImproperlyConfigured("DJANGO_SECRET_KEY environment variable is not set!")
 
 # The username will be filled in by the deployment script or user on PythonAnywhere
-ALLOWED_HOSTS = ['ahmadpython1.pythonanywhere.com']
+ALLOWED_HOSTS = ['REPLACE_WITH_MY_USERNAME.pythonanywhere.com']
 
 DATABASES = {
     'default': {

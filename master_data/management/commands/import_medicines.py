@@ -27,8 +27,11 @@ class Command(BaseCommand):
             with open(csv_path, 'r', encoding='utf-8-sig') as file:
                 reader = csv.DictReader(file)
                 
-                # Basic header validation
-                expected_headers = ['Name', 'Generic', 'Category', 'Manufacturer', 'Form / Strength', 'Pack Size', 'Strips Per Box', 'Sell Price', 'Type', 'Status']
+                expected_headers = [
+                    'Name', 'Generic Name', 'Category', 'Manufacturer', 
+                    'Dosage Form', 'Strength', 'Pack Size', 'Strips Per Box', 
+                    'Default Purchase Price', 'Default Selling Price', 'Tax Percent', 'Medicine Type'
+                ]
                 actual_headers = reader.fieldnames
                 
                 if not actual_headers:
@@ -47,63 +50,88 @@ class Command(BaseCommand):
                             if not name:
                                 raise ValueError("Name is required.")
                             
-                            generic = row.get('Generic', '').strip()
+                            generic = row.get('Generic Name', '').strip()
                             manufacturer = row.get('Manufacturer', '').strip()
                             category_name = row.get('Category', '').strip()
                             
-                            # Handle Category
                             category = None
                             if category_name:
                                 category, _ = MedicineCategory.objects.get_or_create(name=category_name)
                                 
-                            # Handle Form / Strength
-                            form_strength = row.get('Form / Strength', '').strip()
+                            dosage_form_raw = row.get('Dosage Form', '').strip()
                             dosage_form = 'OTHER'
-                            strength = form_strength
-                            
-                            if form_strength:
-                                parts = form_strength.split(' ', 1)
-                                first_word = parts[0].upper()
-                                if first_word in dosage_forms:
-                                    dosage_form = first_word
-                                    strength = parts[1].strip() if len(parts) > 1 else ''
-                                    
-                            # Handle Pack and Strips
-                            pack_size = 1
-                            if row.get('Pack Size', '').strip():
-                                pack_size = int(float(row.get('Pack Size').strip()))
+                            if dosage_form_raw.upper() in dosage_forms:
+                                dosage_form = dosage_form_raw.upper()
                                 
+                            strength = row.get('Strength', '').strip()
+                            
+                            # Parse Pack Size (e.g. "20 tablets")
+                            pack_size_str = row.get('Pack Size', '').strip()
+                            total_l1 = 1
+                            l1_unit_name = 'Unit'
+                            if pack_size_str:
+                                # extract number and text
+                                match = re.match(r'^([\d.]+)\s*(.*)$', pack_size_str)
+                                if match:
+                                    total_l1_f = float(match.group(1))
+                                    total_l1 = int(total_l1_f) if total_l1_f.is_integer() else total_l1_f
+                                    parsed_unit = match.group(2).strip()
+                                    if parsed_unit:
+                                        # strip trailing 's' for singular name
+                                        if parsed_unit.lower().endswith('s') and len(parsed_unit) > 1:
+                                            l1_unit_name = parsed_unit[:-1].capitalize()
+                                        else:
+                                            l1_unit_name = parsed_unit.capitalize()
+                            
+                            strips_per_box_str = row.get('Strips Per Box', '').strip()
                             strips_per_box = None
-                            if row.get('Strips Per Box', '').strip():
-                                strips_per_box = int(float(row.get('Strips Per Box').strip()))
+                            if strips_per_box_str:
+                                strips_per_box = int(float(strips_per_box_str))
                                 
-                            unit = row.get('Unit', '').strip()
+                            l2_multiplier = 1
+                            l3_multiplier = 1
+                            l2_unit_name = ''
+                            l3_unit_name = ''
                             
-                            # Validations for Packaging Configuration
-                            if strips_per_box:
-                                if pack_size <= strips_per_box:
-                                    raise ValueError(f"pack_size ({pack_size}) must be greater than strips_per_box ({strips_per_box}). Pack size must represent TOTAL individual base units.")
-                                if pack_size % strips_per_box != 0:
-                                    raise ValueError(f"pack_size ({pack_size}) must be evenly divisible by strips_per_box ({strips_per_box}).")
+                            if strips_per_box and strips_per_box > 0 and total_l1 > 1:
+                                if total_l1 % strips_per_box != 0:
+                                    # Data anomaly (e.g., 28 tablets in 3 strips). Fall back to Box -> Tablet directly.
+                                    l3_unit_name = 'Box'
+                                    l3_multiplier = 1
+                                    l2_unit_name = ''
+                                    l2_multiplier = int(total_l1)
+                                else:
+                                    l3_unit_name = 'Box'
+                                    l3_multiplier = strips_per_box
+                                    l2_unit_name = 'Strip'
+                                    l2_multiplier = int(total_l1 / strips_per_box)
+                            else:
+                                if total_l1 > 1:
+                                    l3_unit_name = 'Pack'
+                                    l3_multiplier = 1
+                                    l2_unit_name = ''
+                                    l2_multiplier = int(total_l1)
                             
+                            # Handle Prices
+                            def parse_decimal(val_str):
+                                val_str = val_str.strip()
+                                if not val_str:
+                                    return Decimal('0')
+                                try:
+                                    return Decimal(val_str)
+                                except Exception:
+                                    return Decimal('0')
                                     
-                            # Handle Sell Price
-                            sell_price_str = row.get('Sell Price', '').strip()
-                            try:
-                                sell_price = Decimal(sell_price_str) if sell_price_str else Decimal('0')
-                            except Exception:
-                                sell_price = Decimal('0')
-                                
+                            purchase_price = parse_decimal(row.get('Default Purchase Price', ''))
+                            selling_price = parse_decimal(row.get('Default Selling Price', ''))
+                            tax_percent = parse_decimal(row.get('Tax Percent', ''))
+                            
                             # Handle Type
-                            type_str = row.get('Type', '').strip().upper()
+                            type_str = row.get('Medicine Type', '').strip().upper()
                             med_type = type_str if type_str in medicine_types else 'NORMAL'
                             is_refrigerated = (med_type == 'REFRIGERATED')
                             is_injection = (med_type == 'INJECTION')
                             
-                            # Handle Status
-                            is_active = (row.get('Status', '').strip().lower() == 'active')
-                            
-                            # Update or Create
                             medicine, created = Medicine.objects.update_or_create(
                                 name=name,
                                 manufacturer=manufacturer,
@@ -112,14 +140,21 @@ class Command(BaseCommand):
                                     'category': category,
                                     'dosage_form': dosage_form,
                                     'strength': strength,
-                                    'pack_size': pack_size,
-                                    'strips_per_box': strips_per_box,
-                                    'unit': unit,
-                                    'default_selling_price': sell_price,
+                                    
+                                    'l1_unit_name': l1_unit_name,
+                                    'l2_unit_name': l2_unit_name,
+                                    'l2_multiplier': l2_multiplier,
+                                    'l3_unit_name': l3_unit_name,
+                                    'l3_multiplier': l3_multiplier,
+                                    
+                                    'default_purchase_price': purchase_price,
+                                    'default_selling_price': selling_price,
+                                    'tax_percent': tax_percent,
+                                    
                                     'medicine_type': med_type,
                                     'is_refrigerated': is_refrigerated,
                                     'is_injection': is_injection,
-                                    'is_active': is_active,
+                                    'is_active': True,
                                     'distribution_scope': 'ALL',
                                 }
                             )
